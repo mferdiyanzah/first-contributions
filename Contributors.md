@@ -20,6 +20,7 @@
 - [Lucas James] (hhtps://github.com/ljgecko1230)
 - [Nghia Vo] (https://github.com/Kungfoosian)
 - [Ahmed Lebba] (https://github.com/Kungfoosian)
+- [Mohammad Ferdiyanzah](https://github.com/mferdiyanzah)
 - [Gaelle Tjat](https://github.com/GaelleTjat)
 - [Tim Fierens] (https://github.com/timfi)
 - [Sam Wilde] (hhtps://github.com/samwilde16)
